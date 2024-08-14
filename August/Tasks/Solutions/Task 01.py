@@ -1,7 +1,7 @@
-#East - 
+#East - აღმოსავლეთი
 #North - ჩრდილოეთი
 #South - სამხრეთი
-#West - 
+#West - დასავლეთი
 
 def how_long_does_it_take(directions):
     if len(directions) != 10:
