@@ -16,9 +16,3 @@ form.addEventListener('submit', function (e) {
 
     form.reset();
 })
-
-
-/* <h4>${name}</h4>
-<p>⭐⭐⭐⭐</p>
-<p>${reviewText}</p> */
-
